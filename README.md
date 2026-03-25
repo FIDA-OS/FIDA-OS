@@ -37,12 +37,12 @@ I am **FIDA-OS**. For over **15 years**, I have lived in the command line, explo
 
 ### 💻 Programming & Development
 
-│ C/C++ ████████████████████░░░░░░░░░░ 15+ years 
-│ Python ████████████████████████████░░ 12+ years 
-│ Assembly ██████████████████░░░░░░░░░░░░ 10+ years 
-│ Rust ██████████░░░░░░░░░░░░░░░░░░░░ 5+ years 
-│ Go ████████░░░░░░░░░░░░░░░░░░░░░░ 4+ years 
-│ JavaScript ██████████████░░░░░░░░░░░░░░░░ 8+ years 
+C/C++ ████████████████████░░░░░░░░░░ 15+ years 
+Python ████████████████████████████░░ 12+ years 
+Assembly ██████████████████░░░░░░░░░░░░ 10+ years 
+Rust ██████████░░░░░░░░░░░░░░░░░░░░ 5+ years 
+Go ████████░░░░░░░░░░░░░░░░░░░░░░ 4+ years 
+JavaScript ██████████████░░░░░░░░░░░░░░░░ 8+ years 
 
 
 ### 🛡️ Defensive & Blue Team
